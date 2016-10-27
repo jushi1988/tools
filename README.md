@@ -1,5 +1,7 @@
 tools for javaer
-1、 Access WeChat test kit 
+
+   Access WeChat test kit 
+   
    update time: 20161027
    test main class: WeChatApiTest
    
